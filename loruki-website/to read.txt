@@ -1,0 +1,16 @@
+https://css-tricks.com/almanac/properties/o/overflow/
+https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing
+https://www.w3schools.com/icons/fontawesome_icons_intro.asp
+https://sites.uci.edu/blog/tips-tricks/how-to-use-font-awesome-on-your-site/
+https://css-tricks.com/absolute-relative-fixed-positioining-how-do-they-differ/
+https://css-tricks.com/almanac/properties/p/position/
+https://css-tricks.com/quick-whats-the-difference-between-flexbox-and-grid/
+https://www.geeksforgeeks.org/comparison-between-css-grid-css-flexbox/#:~:text=Grid%20is%20made%20for%20two,in%20this%20type%20of%20scenario.
+https://stackoverflow.com/questions/18083056/what-are-moz-and-webkit
+https://stackoverflow.com/questions/8131846/why-do-browsers-create-vendor-prefixes-for-css-properties
+https://stackoverflow.com/questions/43397054/how-can-i-know-when-to-use-webkit-moz-ms-o-etc/43397177
+https://developer.mozilla.org/en-US/docs/Glossary/Vendor_Prefix
+https://css-tricks.com/snippets/css/complete-guide-grid/
+https://developer.mozilla.org/en-US/docs/Web/CSS/grid-column
+https://css-tricks.com/absolute-positioning-inside-relative-positioning/
+https://www.youtube.com/watch?v=Qhaz36TZG5Y
